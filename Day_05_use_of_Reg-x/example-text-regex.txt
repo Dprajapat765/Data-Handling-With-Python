@@ -1,0 +1,80 @@
+Regular expressions easily explained!
+
+A cat and a rat can't be friends. but cat and dog can
+
+rat
+cat
+bat
+eat
+sat
+
+
+Maier
+Mayer
+Meier
+Meyer
+
+
+
+abcabcbdefdef
+ABC$DEFGHca
+ABabANDEF
+ABCaabbAABCABC$
+8900000232
+093434342345234
+abd....def
+abc....
+bc....def
+a....def
+....def
+ 
+123-456-6789
+123-907-3456
+
+123#567*3456
+
+Jack Neu 555-7666
+Jeb Neu 555-5543
+Jennifer Neu 555-3652
+
+
+321-555-4321
+123.555.1234
+123*555*1234
+321–555--4321
+900-555-1234
+800-555-1234
+
+
+forsk forsk techforsklabs techforsk labs forsktech
+Forsk Labs
+Jaipur India
+
+Forsklabs@gmail.com
+forsk@forsk.in
+forsk001@qualcomm.com
+forsk@google.co.in
+forsk@google.co.networks
+@gmail.com
+
++9999999999
+999999-999
+99999x9999
+
+
+SylvesterFernandes@gmail.com
+sylvester.fernandes@university.edu
+sylvester-321-fernandes@my-work.net
+
+
+https://www.google.com
+http://forsk.in
+https://youtube.com
+https://www.nasa.gov
+
+
+
+
+
+
+
