@@ -81,9 +81,7 @@ explode = (0.1, 0, 0, 0)  # explode 1st slice
 # or
 
 plt.pie(sizes, explode=explode, labels=labels, colors=colors, autopct='%1.2f%%', shadow=True, startangle=90)
-centre_circle = plt.Circle((0,0),0.70,fc='white')
-fig = plt.gcf()
-fig.gca().add_artist(centre_circle)
+
 
 plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.show()
@@ -213,7 +211,7 @@ Matplotlib Part 2 After Numpy
 import numpy as np
 import matplotlib.pyplot as plt
 
-data = range(1,10)
+data = np.random.randn(1000)
 
 plt.hist(data);
 
